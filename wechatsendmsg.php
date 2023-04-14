@@ -1,13 +1,13 @@
 <?php
 
 // 企业id
-$id="wwfeb727e8c4f255bb";
+$id="ww2744b9fd1c043c94";
 // 应用id
-$agentid="1000009";
+$agentid="1000002";
 // 应用secret
-$secret="ysnn3k7WRHs05hzBtxhanaiFnB-O2lDZzpXibk-YYaa";
+$secret="MqXkChhU8sJVFxd3lHNASqM6y_iaMFiQoAGnQKlesGI";
 // 用户id [也就是用户账号，多个用户用|符号分开]
-$touser="ZhangSan";
+$touser="ChengXingYu";
 
 // 发送内容支持三种模式 cli fpm post/get
 if (php_sapi_name() == "cli") {
